@@ -1,9 +1,10 @@
 package com.github.gianlucanitti.expreval;
 
-import android.support.annotation.NonNull;
 import android.text.SpannableString;
 import android.text.style.ForegroundColorSpan;
 import android.widget.TextView;
+
+import androidx.annotation.NonNull;
 
 import java.io.IOException;
 import java.io.Writer;
